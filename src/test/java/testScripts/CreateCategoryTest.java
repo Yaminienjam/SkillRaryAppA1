@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import genericLibraries.BaseClass;
-//Test script Sucess
+//Test script Success
 
 public class CreateCategoryTest  extends BaseClass {
 	
